@@ -10,7 +10,7 @@ This project is a command-line password generator written in Rust. It generates 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/password_generator.git
+git clone https://github.com/erygle/password_generator.git
 cd password_generator
 ```
 

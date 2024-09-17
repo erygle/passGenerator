@@ -3,8 +3,8 @@ This project is a command-line password generator written in Rust. It generates 
 
 ## Requirements
  - Rust (ensure you have Rust and Cargo installed on your machine).
- - clap crate for command-line argument parsing.
- - rand crate for random number generation.
+ - `clap` crate for command-line argument parsing.
+ - `rand` crate for random number generation.
 
 ## Installation
 Clone the repository:
